@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/work/mp1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -std=gnu++11 -o CMakeFiles/Application.dir/Log.cpp.o -c /work/mp1/Log.cpp",
+  "file": "/work/mp1/Log.cpp"
+},
+{
+  "directory": "/work/mp1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -std=gnu++11 -o CMakeFiles/Application.dir/EmulNet.cpp.o -c /work/mp1/EmulNet.cpp",
+  "file": "/work/mp1/EmulNet.cpp"
+},
+{
+  "directory": "/work/mp1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -std=gnu++11 -o CMakeFiles/Application.dir/Member.cpp.o -c /work/mp1/Member.cpp",
+  "file": "/work/mp1/Member.cpp"
+},
+{
+  "directory": "/work/mp1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -std=gnu++11 -o CMakeFiles/Application.dir/MP1Node.cpp.o -c /work/mp1/MP1Node.cpp",
+  "file": "/work/mp1/MP1Node.cpp"
+},
+{
+  "directory": "/work/mp1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -std=gnu++11 -o CMakeFiles/Application.dir/Params.cpp.o -c /work/mp1/Params.cpp",
+  "file": "/work/mp1/Params.cpp"
+},
+{
+  "directory": "/work/mp1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -std=gnu++11 -o CMakeFiles/Application.dir/Application.cpp.o -c /work/mp1/Application.cpp",
+  "file": "/work/mp1/Application.cpp"
+}
+]

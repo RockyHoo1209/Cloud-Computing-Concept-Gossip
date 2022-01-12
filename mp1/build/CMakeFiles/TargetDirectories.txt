@@ -1,0 +1,3 @@
+/work/mp1/build/CMakeFiles/rebuild_cache.dir
+/work/mp1/build/CMakeFiles/edit_cache.dir
+/work/mp1/build/CMakeFiles/Application.dir
